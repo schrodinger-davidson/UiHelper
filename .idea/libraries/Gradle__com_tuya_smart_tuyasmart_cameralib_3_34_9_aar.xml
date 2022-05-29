@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-cameralib:3.34.9@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bf4b4c0e28229773c83a27fe3e339a54/transformed/jetified-tuyasmart-cameralib-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bf4b4c0e28229773c83a27fe3e339a54/transformed/jetified-tuyasmart-cameralib-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bf4b4c0e28229773c83a27fe3e339a54/transformed/jetified-tuyasmart-cameralib-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dfcebf5c0e4c414d75a957396e260a66/transformed/jetified-tuyasmart-cameralib-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dfcebf5c0e4c414d75a957396e260a66/transformed/jetified-tuyasmart-cameralib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dfcebf5c0e4c414d75a957396e260a66/transformed/jetified-tuyasmart-cameralib-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

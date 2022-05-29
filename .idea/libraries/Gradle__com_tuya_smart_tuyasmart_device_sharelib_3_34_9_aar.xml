@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-device-sharelib:3.34.9@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c8971ecd63311ae5288ab338d4f99639/transformed/jetified-tuyasmart-device-sharelib-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c8971ecd63311ae5288ab338d4f99639/transformed/jetified-tuyasmart-device-sharelib-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c8971ecd63311ae5288ab338d4f99639/transformed/jetified-tuyasmart-device-sharelib-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/712db623c264f2ca5d37775bd6d0e796/transformed/jetified-tuyasmart-device-sharelib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/712db623c264f2ca5d37775bd6d0e796/transformed/jetified-tuyasmart-device-sharelib-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/712db623c264f2ca5d37775bd6d0e796/transformed/jetified-tuyasmart-device-sharelib-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

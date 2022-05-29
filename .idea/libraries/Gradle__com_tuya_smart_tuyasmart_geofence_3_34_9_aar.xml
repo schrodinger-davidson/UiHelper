@@ -1,10 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-geofence:3.34.9@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/de2bfef400dbd643da101011b42b3d2e/transformed/jetified-tuyasmart-geofence-3.34.9/jars/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/de2bfef400dbd643da101011b42b3d2e/transformed/jetified-tuyasmart-geofence-3.34.9/jars/libs/r-classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/de2bfef400dbd643da101011b42b3d2e/transformed/jetified-tuyasmart-geofence-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/de2bfef400dbd643da101011b42b3d2e/transformed/jetified-tuyasmart-geofence-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6887c30e40ce2ddaec169d5763f5481f/transformed/jetified-tuyasmart-geofence-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6887c30e40ce2ddaec169d5763f5481f/transformed/jetified-tuyasmart-geofence-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6887c30e40ce2ddaec169d5763f5481f/transformed/jetified-tuyasmart-geofence-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6887c30e40ce2ddaec169d5763f5481f/transformed/jetified-tuyasmart-geofence-3.34.9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

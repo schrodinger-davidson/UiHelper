@@ -2,15 +2,15 @@
   <library name="Gradle: androidx.drawerlayout:drawerlayout:1.1.1@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/86fd9c0c6419341b2e450f22d644b52b/transformed/drawerlayout-1.1.1/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/9ed99042c56257b74c996cb0dd4fc147/transformed/drawerlayout-1.1.1/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25ff7c5f9a43222f90eb671b7035fbae/transformed/drawerlayout-1.1.1/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/86fd9c0c6419341b2e450f22d644b52b/transformed/drawerlayout-1.1.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86fd9c0c6419341b2e450f22d644b52b/transformed/drawerlayout-1.1.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/86fd9c0c6419341b2e450f22d644b52b/transformed/drawerlayout-1.1.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/9ed99042c56257b74c996cb0dd4fc147/transformed/drawerlayout-1.1.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/9ed99042c56257b74c996cb0dd4fc147/transformed/drawerlayout-1.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/9ed99042c56257b74c996cb0dd4fc147/transformed/drawerlayout-1.1.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25ff7c5f9a43222f90eb671b7035fbae/transformed/drawerlayout-1.1.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25ff7c5f9a43222f90eb671b7035fbae/transformed/drawerlayout-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25ff7c5f9a43222f90eb671b7035fbae/transformed/drawerlayout-1.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

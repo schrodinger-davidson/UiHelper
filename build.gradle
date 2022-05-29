@@ -18,7 +18,7 @@ buildscript {
      //   classpath "com.tuya.smart:tuyasmart-theme-open-plugin:1.1.0"
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "com.google.dagger:hilt-android-gradle-plugin:2.36"
-       // classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
+        classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
       //  classpath 'com.github.dcendents:android-maven-plugin:1.0'
 
       //  classpath "com.google.dagger:hilt-android-gradle-plugin:2.36"
@@ -37,7 +37,7 @@ allprojects {
         jcenter()
         google()
         //***** required start ****//
-       // maven { url 'https://jitpack.io' }
+        maven { url 'https://jitpack.io' }
     }
     configurations.all {
         resolutionStrategy.cacheChangingModulesFor 0, 'seconds'

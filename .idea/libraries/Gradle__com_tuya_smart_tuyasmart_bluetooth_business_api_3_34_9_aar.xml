@@ -1,12 +1,13 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-bluetooth-business-api:3.34.9@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/423d26f2609e300488c5f1537a6544f9/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0cae392f4030d3f7687ffaf3d1fb0a9d/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/423d26f2609e300488c5f1537a6544f9/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/423d26f2609e300488c5f1537a6544f9/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/423d26f2609e300488c5f1537a6544f9/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0cae392f4030d3f7687ffaf3d1fb0a9d/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0cae392f4030d3f7687ffaf3d1fb0a9d/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0cae392f4030d3f7687ffaf3d1fb0a9d/transformed/jetified-tuyasmart-bluetooth-business-api-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

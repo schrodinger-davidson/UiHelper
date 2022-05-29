@@ -1,7 +1,6 @@
 plugins {
     id 'com.android.application'
     id 'maven-publish'
-
 }
 apply plugin: 'dagger.hilt.android.plugin'
 

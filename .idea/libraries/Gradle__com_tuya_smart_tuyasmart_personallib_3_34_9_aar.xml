@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-personallib:3.34.9@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dcf410cc49b257ae273913736da7f938/transformed/jetified-tuyasmart-personallib-3.34.9/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dcf410cc49b257ae273913736da7f938/transformed/jetified-tuyasmart-personallib-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dcf410cc49b257ae273913736da7f938/transformed/jetified-tuyasmart-personallib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/572625aa92ba3012d35d8c999f904d9f/transformed/jetified-tuyasmart-personallib-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/572625aa92ba3012d35d8c999f904d9f/transformed/jetified-tuyasmart-personallib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/572625aa92ba3012d35d8c999f904d9f/transformed/jetified-tuyasmart-personallib-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

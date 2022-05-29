@@ -12,9 +12,9 @@
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1ae17f08e61f89cf3b46e1a3434bbcb/transformed/espresso-idling-resource-3.4.0/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ffc41041f39c02b5e5cdb9e34220210/transformed/espresso-idling-resource-3.4.0/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/89c75e31a63fc6983b26be2f76ea536c/transformed/espresso-idling-resource-3.4.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4462b403a1c5cd32d42ef9848750cf03/transformed/espresso-idling-resource-3.4.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4462b403a1c5cd32d42ef9848750cf03/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4462b403a1c5cd32d42ef9848750cf03/transformed/espresso-idling-resource-3.4.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ffc41041f39c02b5e5cdb9e34220210/transformed/espresso-idling-resource-3.4.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ffc41041f39c02b5e5cdb9e34220210/transformed/espresso-idling-resource-3.4.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-idling-resource/3.4.0/69a300fcf8de2c433672d07a6c436a19dfb9b8f9/espresso-idling-resource-3.4.0-javadoc.jar!/" />

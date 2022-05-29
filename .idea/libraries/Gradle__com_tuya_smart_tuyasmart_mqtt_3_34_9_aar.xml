@@ -4,10 +4,10 @@
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/457ebbf78bdd63dad759355a6eac50c5/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b8da9b53fad73c5ad1990736908db0a5/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a0a9df8d3e03371ce64b70a39d7df58d/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/756bd2fc423dab9a3c3b77407bd4545c/transformed/jetified-tuyasmart-mqtt-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/756bd2fc423dab9a3c3b77407bd4545c/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/756bd2fc423dab9a3c3b77407bd4545c/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/756bd2fc423dab9a3c3b77407bd4545c/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b8da9b53fad73c5ad1990736908db0a5/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b8da9b53fad73c5ad1990736908db0a5/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b8da9b53fad73c5ad1990736908db0a5/transformed/jetified-tuyasmart-mqtt-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

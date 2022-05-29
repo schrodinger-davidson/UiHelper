@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:optimus:1.0.4@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/26e4147a60b8a66bfb6eb442a9bc595f/transformed/jetified-optimus-1.0.4/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/26e4147a60b8a66bfb6eb442a9bc595f/transformed/jetified-optimus-1.0.4/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/26e4147a60b8a66bfb6eb442a9bc595f/transformed/jetified-optimus-1.0.4/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/626e2837a021ef7176037daf4b13aa70/transformed/jetified-optimus-1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/626e2837a021ef7176037daf4b13aa70/transformed/jetified-optimus-1.0.4/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/626e2837a021ef7176037daf4b13aa70/transformed/jetified-optimus-1.0.4/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

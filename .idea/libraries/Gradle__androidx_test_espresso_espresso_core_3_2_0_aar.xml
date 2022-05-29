@@ -13,8 +13,8 @@
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4fbef41a84523793d1a84945b75d3f2f/transformed/espresso-core-3.2.0/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/63e0ffde534a277a377eb339544052ce/transformed/espresso-core-3.2.0/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/774d14aeda95f48d01024f2a3d2287ce/transformed/espresso-core-3.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/774d14aeda95f48d01024f2a3d2287ce/transformed/espresso-core-3.2.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/774d14aeda95f48d01024f2a3d2287ce/transformed/espresso-core-3.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4fbef41a84523793d1a84945b75d3f2f/transformed/espresso-core-3.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4fbef41a84523793d1a84945b75d3f2f/transformed/espresso-core-3.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.test.espresso/espresso-core/3.2.0/4dd88178a28883ac149f76e4908942486e756b72/espresso-core-3.2.0-javadoc.jar!/" />

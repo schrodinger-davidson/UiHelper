@@ -4,9 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/26630adcf9777f29284372e477f7b3eb/transformed/jetified-appcompat-resources-1.4.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/26630adcf9777f29284372e477f7b3eb/transformed/jetified-appcompat-resources-1.4.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/26630adcf9777f29284372e477f7b3eb/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/f693934cb2b13fc4b56814b5c8a73f76/transformed/jetified-appcompat-resources-1.4.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/f693934cb2b13fc4b56814b5c8a73f76/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/f693934cb2b13fc4b56814b5c8a73f76/transformed/jetified-appcompat-resources-1.4.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b4acdbfe85cab6e320738d59299e5d3c/transformed/jetified-appcompat-resources-1.4.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b4acdbfe85cab6e320738d59299e5d3c/transformed/jetified-appcompat-resources-1.4.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b4acdbfe85cab6e320738d59299e5d3c/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

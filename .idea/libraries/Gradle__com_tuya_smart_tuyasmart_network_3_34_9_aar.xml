@@ -4,10 +4,10 @@
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c09b8595613285eece9fc00f9d050d2e/transformed/jetified-tuyasmart-network-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4a238b91fb6498538af8bfd697a03fe7/transformed/jetified-tuyasmart-network-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5bda6806a70197d7e428d15991d759d5/transformed/jetified-tuyasmart-network-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/98502a50a32693f0ca2d1852bbadb574/transformed/jetified-tuyasmart-network-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/98502a50a32693f0ca2d1852bbadb574/transformed/jetified-tuyasmart-network-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/98502a50a32693f0ca2d1852bbadb574/transformed/jetified-tuyasmart-network-3.34.9/jars/libs/r-classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/98502a50a32693f0ca2d1852bbadb574/transformed/jetified-tuyasmart-network-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4a238b91fb6498538af8bfd697a03fe7/transformed/jetified-tuyasmart-network-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4a238b91fb6498538af8bfd697a03fe7/transformed/jetified-tuyasmart-network-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/4a238b91fb6498538af8bfd697a03fe7/transformed/jetified-tuyasmart-network-3.34.9/jars/libs/r-classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

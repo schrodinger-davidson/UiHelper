@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.at.lightsdk">
+
+    <application>
+
+        <meta-data
+            android:name="TUYA_SMART_APPKEY"
+            android:value="5hga4eqmnduucjcsf7ep" />
+
+        <meta-data
+            android:name="TUYA_SMART_SECRET"
+            android:value="38sqm7dww7qkakajwm4ryev5gtqvd4kd" />
+
+        <meta-data
+            android:name="PACKAGE_NAME"
+            android:value="com.at.rashmismart" />
+
+
+
+        <activity android:name=".base.BaseActivity"
+            android:exported="false"
+            />
+
+    </application>
+
+</manifest>

@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.dagger:hilt-android:2.36@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7b5397599f352bb7ab9fb9144bc4c947/transformed/jetified-hilt-android-2.36/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/04b6478c213a07c3b166bb6f8fcb90af/transformed/jetified-hilt-android-2.36/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.36/b8a3e60015d65feb6d304c2ada2de85877d08989/hilt-android-2.36-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.36/b8a3e60015d65feb6d304c2ada2de85877d08989/hilt-android-2.36-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.36/318b8167d701bf0f8af7314c12f8a1cdc5d1faae/hilt-android-2.36-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/modules-2/files-2.1/com.google.dagger/hilt-android/2.36/318b8167d701bf0f8af7314c12f8a1cdc5d1faae/hilt-android-2.36-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

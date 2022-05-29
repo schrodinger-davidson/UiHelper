@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.2.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afdad1cf838e552131258d73e60da7a9/transformed/jetified-activity-1.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.2.2/90a39fdeb6c8aa134518e9fc089fd2625a0329b0/activity-1.2.2-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.2.2/90a39fdeb6c8aa134518e9fc089fd2625a0329b0/activity-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

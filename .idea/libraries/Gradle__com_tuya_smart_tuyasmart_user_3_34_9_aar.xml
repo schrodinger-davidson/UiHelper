@@ -5,10 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7559727e8ff5486647eea36baa61fd87/transformed/jetified-tuyasmart-user-3.34.9/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7559727e8ff5486647eea36baa61fd87/transformed/jetified-tuyasmart-user-3.34.9/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7559727e8ff5486647eea36baa61fd87/transformed/jetified-tuyasmart-user-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/029d373e4a0f0c21c19d764092225334/transformed/jetified-tuyasmart-user-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/029d373e4a0f0c21c19d764092225334/transformed/jetified-tuyasmart-user-3.34.9/jars/libs/r-classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/029d373e4a0f0c21c19d764092225334/transformed/jetified-tuyasmart-user-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/029d373e4a0f0c21c19d764092225334/transformed/jetified-tuyasmart-user-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25c985d8e0773190a4f8fa30ba6cc79c/transformed/jetified-tuyasmart-user-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25c985d8e0773190a4f8fa30ba6cc79c/transformed/jetified-tuyasmart-user-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25c985d8e0773190a4f8fa30ba6cc79c/transformed/jetified-tuyasmart-user-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/25c985d8e0773190a4f8fa30ba6cc79c/transformed/jetified-tuyasmart-user-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

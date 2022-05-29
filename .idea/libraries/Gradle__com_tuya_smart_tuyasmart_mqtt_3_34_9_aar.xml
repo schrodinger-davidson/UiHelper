@@ -7,10 +7,11 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/af9cff5ec1d725b441568ab82d96fb01/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/libs/r-classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/af9cff5ec1d725b441568ab82d96fb01/transformed/jetified-tuyasmart-mqtt-3.34.9/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/af9cff5ec1d725b441568ab82d96fb01/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/61d54e1ce1b5857ca402e8ca8d09729a/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/61d54e1ce1b5857ca402e8ca8d09729a/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/61d54e1ce1b5857ca402e8ca8d09729a/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/libs/r-classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/61d54e1ce1b5857ca402e8ca8d09729a/transformed/jetified-tuyasmart-mqtt-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/457ebbf78bdd63dad759355a6eac50c5/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/457ebbf78bdd63dad759355a6eac50c5/transformed/jetified-tuyasmart-mqtt-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/457ebbf78bdd63dad759355a6eac50c5/transformed/jetified-tuyasmart-mqtt-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/457ebbf78bdd63dad759355a6eac50c5/transformed/jetified-tuyasmart-mqtt-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -2,15 +2,15 @@
   <library name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb8c020d934725126ac784709e998173/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/254d4d65146c9b1f5156c5db2effd32d/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6264939fe14e7a21840b6bd643aa7a71/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cb8c020d934725126ac784709e998173/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb8c020d934725126ac784709e998173/transformed/jetified-viewpager2-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cb8c020d934725126ac784709e998173/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/254d4d65146c9b1f5156c5db2effd32d/transformed/jetified-viewpager2-1.0.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/254d4d65146c9b1f5156c5db2effd32d/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/254d4d65146c9b1f5156c5db2effd32d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6264939fe14e7a21840b6bd643aa7a71/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6264939fe14e7a21840b6bd643aa7a71/transformed/jetified-viewpager2-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6264939fe14e7a21840b6bd643aa7a71/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

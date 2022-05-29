@@ -6,9 +6,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ab9a729e391a453ceddd1a2eb9b155f6/transformed/jetified-annotation-0.8.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/ab9a729e391a453ceddd1a2eb9b155f6/transformed/jetified-annotation-0.8.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/ab9a729e391a453ceddd1a2eb9b155f6/transformed/jetified-annotation-0.8.0/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a4e0670a39849c68499e96611c1711eb/transformed/jetified-annotation-0.8.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a4e0670a39849c68499e96611c1711eb/transformed/jetified-annotation-0.8.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a4e0670a39849c68499e96611c1711eb/transformed/jetified-annotation-0.8.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/2d10a39173c1a9fad552ee2c812a42b2/transformed/jetified-annotation-0.8.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/2d10a39173c1a9fad552ee2c812a42b2/transformed/jetified-annotation-0.8.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/2d10a39173c1a9fad552ee2c812a42b2/transformed/jetified-annotation-0.8.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.soloader/annotation/0.8.0/a2fae398964a73c913cc246c928a32b0ea7bf02d/annotation-0.8.0-javadoc.jar!/" />

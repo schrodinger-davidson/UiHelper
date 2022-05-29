@@ -7,10 +7,11 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2d87d33542afb94e515e53b9aa3e4c8b/transformed/jetified-tuyasmart-3.34.9/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2d87d33542afb94e515e53b9aa3e4c8b/transformed/jetified-tuyasmart-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/34d00cb8fcdf52a95acca9c04dffc743/transformed/jetified-tuyasmart-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e93e810c12ed8a332144084c3c8f61f5/transformed/jetified-tuyasmart-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e93e810c12ed8a332144084c3c8f61f5/transformed/jetified-tuyasmart-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e93e810c12ed8a332144084c3c8f61f5/transformed/jetified-tuyasmart-3.34.9/jars/libs/r-classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e93e810c12ed8a332144084c3c8f61f5/transformed/jetified-tuyasmart-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b58694e02fa2d76d9616b83fc4f59c17/transformed/jetified-tuyasmart-3.34.9/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b58694e02fa2d76d9616b83fc4f59c17/transformed/jetified-tuyasmart-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b58694e02fa2d76d9616b83fc4f59c17/transformed/jetified-tuyasmart-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b58694e02fa2d76d9616b83fc4f59c17/transformed/jetified-tuyasmart-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

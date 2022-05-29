@@ -4,9 +4,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c113fba754af76ee40e3f14d537bd19/transformed/jetified-optimus-1.0.4/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5c113fba754af76ee40e3f14d537bd19/transformed/jetified-optimus-1.0.4/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5c113fba754af76ee40e3f14d537bd19/transformed/jetified-optimus-1.0.4/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/27c403f9dfb70bdfebd0b48c1539c345/transformed/jetified-optimus-1.0.4/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/27c403f9dfb70bdfebd0b48c1539c345/transformed/jetified-optimus-1.0.4/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/27c403f9dfb70bdfebd0b48c1539c345/transformed/jetified-optimus-1.0.4/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/982a612cc5001dfaa7e89f9d10cf64a8/transformed/jetified-optimus-1.0.4/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/982a612cc5001dfaa7e89f9d10cf64a8/transformed/jetified-optimus-1.0.4/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/982a612cc5001dfaa7e89f9d10cf64a8/transformed/jetified-optimus-1.0.4/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

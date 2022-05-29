@@ -1,5 +1,7 @@
 plugins {
     id 'com.android.library'
+    id 'maven-publish'
+
 }
 
 apply plugin: 'dagger.hilt.android.plugin'
@@ -105,6 +107,20 @@ dependencies {
     annotationProcessor 'com.google.dagger:hilt-android-compiler:2.36'
     implementation 'com.google.dagger:hilt-android:2.36'
 
+}
+
+afterEvaluate {
+    publishing{
+        publications{
+            release(MavenPublication){
+                from components.release
+
+                groupId = 'com.at'
+                artifactId ='smartlite'
+                version='1.0.2'
+            }
+        }
+    }
 }
 
 //apply plugin: 'com.tuya.open.theme'

@@ -19,7 +19,7 @@ buildscript {
         classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
         classpath "com.google.dagger:hilt-android-gradle-plugin:2.36"
         classpath 'com.github.dcendents:android-maven-gradle-plugin:1.5'
-      //  classpath 'com.github.dcendents:android-maven-plugin:1.0'
+        classpath 'com.github.dcendents:android-maven-plugin:1.0'
 
       //  classpath "com.google.dagger:hilt-android-gradle-plugin:2.36"
 
@@ -30,14 +30,14 @@ buildscript {
 
 allprojects {
     repositories {
-        maven { url 'https://maven-other.tuya.com/repository/maven-releases/' }
+       // maven { url 'https://maven-other.tuya.com/repository/maven-releases/' }
 
-        mavenCentral()
+//        mavenCentral()
       //  mavenLocal()
-        jcenter()
-        google()
+//        jcenter()
+  //      google()
         //***** required start ****//
-        maven { url 'https://jitpack.io' }
+    //    maven { url 'https://jitpack.io' }
     }
     configurations.all {
         resolutionStrategy.cacheChangingModulesFor 0, 'seconds'

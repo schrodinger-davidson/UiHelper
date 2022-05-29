@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-region-url-full:3.34.9@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dffe795a87e7fcbb5477b9eafeb44d58/transformed/jetified-tuyasmart-region-url-full-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dffe795a87e7fcbb5477b9eafeb44d58/transformed/jetified-tuyasmart-region-url-full-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dffe795a87e7fcbb5477b9eafeb44d58/transformed/jetified-tuyasmart-region-url-full-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1d83df2cb571f400371875193430f36/transformed/jetified-tuyasmart-region-url-full-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1d83df2cb571f400371875193430f36/transformed/jetified-tuyasmart-region-url-full-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1d83df2cb571f400371875193430f36/transformed/jetified-tuyasmart-region-url-full-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

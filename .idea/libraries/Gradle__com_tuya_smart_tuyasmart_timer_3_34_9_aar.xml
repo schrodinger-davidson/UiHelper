@@ -2,9 +2,11 @@
   <library name="Gradle: com.tuya.smart:tuyasmart-timer:3.34.9@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/212850e9e03e2d4cef585bcb5c9b804a/transformed/jetified-tuyasmart-timer-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/67c5d3a15b46b43ae1589edb65739f93/transformed/jetified-tuyasmart-timer-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/67c5d3a15b46b43ae1589edb65739f93/transformed/jetified-tuyasmart-timer-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/67c5d3a15b46b43ae1589edb65739f93/transformed/jetified-tuyasmart-timer-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/711478a8558cb352c4d3611b22d5e708/transformed/jetified-tuyasmart-timer-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e2dab1ef4de3f670a158a916e0b2f840/transformed/jetified-tuyasmart-timer-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e2dab1ef4de3f670a158a916e0b2f840/transformed/jetified-tuyasmart-timer-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e2dab1ef4de3f670a158a916e0b2f840/transformed/jetified-tuyasmart-timer-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

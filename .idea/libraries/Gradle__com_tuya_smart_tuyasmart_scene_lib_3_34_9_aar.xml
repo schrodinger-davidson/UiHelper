@@ -2,9 +2,11 @@
   <library name="Gradle: com.tuya.smart:tuyasmart-scene-lib:3.34.9@aar">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/ab91c4cd79ce640ae06a7c85a65917d4/transformed/jetified-tuyasmart-scene-lib-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/fea0615dcaabd7d3183cd2727650a566/transformed/jetified-tuyasmart-scene-lib-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/fea0615dcaabd7d3183cd2727650a566/transformed/jetified-tuyasmart-scene-lib-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/fea0615dcaabd7d3183cd2727650a566/transformed/jetified-tuyasmart-scene-lib-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/e55859404ffe31b3bde2b797b40f7224/transformed/jetified-tuyasmart-scene-lib-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1b4be74bd9b500696200613611433f4/transformed/jetified-tuyasmart-scene-lib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1b4be74bd9b500696200613611433f4/transformed/jetified-tuyasmart-scene-lib-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a1b4be74bd9b500696200613611433f4/transformed/jetified-tuyasmart-scene-lib-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

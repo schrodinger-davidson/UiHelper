@@ -1,13 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-scene-compat-api:3.34.9@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0b33a932c06f9113413a04d173607963/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c7d4eeda102a1bc83df38a413beb756e/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c656c937f817e56729b5448d9950e6f6/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0b33a932c06f9113413a04d173607963/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0b33a932c06f9113413a04d173607963/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0b33a932c06f9113413a04d173607963/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/46bac26641e3bcff50257cd7bd732d2d/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c7d4eeda102a1bc83df38a413beb756e/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c7d4eeda102a1bc83df38a413beb756e/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c7d4eeda102a1bc83df38a413beb756e/transformed/jetified-tuyasmart-scene-compat-api-3.34.9/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

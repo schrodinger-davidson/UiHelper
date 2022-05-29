@@ -1,8 +1,9 @@
 plugins {
     id 'com.android.library'
+    id 'maven-publish'
 
 }
-//apply plugin: 'android-maven'
+//apply plugin: 'com.github.dcendents.android-maven'
 
 apply plugin: 'dagger.hilt.android.plugin'
 

@@ -2,15 +2,15 @@
   <library name="Gradle: com.google.android.material:material:1.6.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bd6658cbfdfee395d3ce22f5e7b04be0/transformed/material-1.6.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d10f2874b85c820133b65be18f333041/transformed/material-1.6.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/133acb2b533f8ca57af22a69b92762c5/transformed/material-1.6.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bd6658cbfdfee395d3ce22f5e7b04be0/transformed/material-1.6.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bd6658cbfdfee395d3ce22f5e7b04be0/transformed/material-1.6.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/bd6658cbfdfee395d3ce22f5e7b04be0/transformed/material-1.6.0/jars/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d10f2874b85c820133b65be18f333041/transformed/material-1.6.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d10f2874b85c820133b65be18f333041/transformed/material-1.6.0/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d10f2874b85c820133b65be18f333041/transformed/material-1.6.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/133acb2b533f8ca57af22a69b92762c5/transformed/material-1.6.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/133acb2b533f8ca57af22a69b92762c5/transformed/material-1.6.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/133acb2b533f8ca57af22a69b92762c5/transformed/material-1.6.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

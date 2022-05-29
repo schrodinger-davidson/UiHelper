@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.tuya.smart:tuyasmart-sweeper:3.34.9@aar">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c2f32e6802c9ecc3e3ad814eff9ef7a0/transformed/jetified-tuyasmart-sweeper-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c2f32e6802c9ecc3e3ad814eff9ef7a0/transformed/jetified-tuyasmart-sweeper-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c2f32e6802c9ecc3e3ad814eff9ef7a0/transformed/jetified-tuyasmart-sweeper-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/7ecae7c60cfbd6d3bc7b7076bd6f06db/transformed/jetified-tuyasmart-sweeper-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/7ecae7c60cfbd6d3bc7b7076bd6f06db/transformed/jetified-tuyasmart-sweeper-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/7ecae7c60cfbd6d3bc7b7076bd6f06db/transformed/jetified-tuyasmart-sweeper-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

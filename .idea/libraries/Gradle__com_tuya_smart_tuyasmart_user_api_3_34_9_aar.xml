@@ -7,9 +7,11 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/bf7eeaa9527b01d00e30459aa5d7e5fa/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bf7eeaa9527b01d00e30459aa5d7e5fa/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5e784923e1782af4657aa79fd03efb65/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/45c3e2c6bad4c27ee8bc7dd713d7a123/transformed/jetified-tuyasmart-user-api-3.34.9/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/45c3e2c6bad4c27ee8bc7dd713d7a123/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/45c3e2c6bad4c27ee8bc7dd713d7a123/transformed/jetified-tuyasmart-user-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/593d00da3b383f2e8ddbf5041086d98b/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/8562bbb0a676622fdc289384f5cb3e7b/transformed/jetified-tuyasmart-user-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/8562bbb0a676622fdc289384f5cb3e7b/transformed/jetified-tuyasmart-user-api-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/8562bbb0a676622fdc289384f5cb3e7b/transformed/jetified-tuyasmart-user-api-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -7,9 +7,11 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c46b8633217f0540a56a272d52d73d47/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c46b8633217f0540a56a272d52d73d47/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/fbc1163d10b26b46acc9410118c59d0e/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5bc79b4ea3b7c560d80fc3539bec79dd/transformed/jetified-tuyasmart-device-share-api-3.34.9/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5bc79b4ea3b7c560d80fc3539bec79dd/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5bc79b4ea3b7c560d80fc3539bec79dd/transformed/jetified-tuyasmart-device-share-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d649df338a047d7a6ac556c24b104513/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0fc69dda3d88c6bc8e8cdde95451a42b/transformed/jetified-tuyasmart-device-share-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0fc69dda3d88c6bc8e8cdde95451a42b/transformed/jetified-tuyasmart-device-share-api-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/0fc69dda3d88c6bc8e8cdde95451a42b/transformed/jetified-tuyasmart-device-share-api-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

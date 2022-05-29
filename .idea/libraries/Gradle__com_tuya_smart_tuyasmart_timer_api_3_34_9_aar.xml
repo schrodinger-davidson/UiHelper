@@ -7,9 +7,11 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/6a5072bf544677ddfd392be557dc51ba/transformed/jetified-tuyasmart-timer-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6a5072bf544677ddfd392be557dc51ba/transformed/jetified-tuyasmart-timer-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/78c5e07c4562c5bdf7edaeaa936a688f/transformed/jetified-tuyasmart-timer-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b7e407d69384f9307554c2668a662aac/transformed/jetified-tuyasmart-timer-api-3.34.9/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b7e407d69384f9307554c2668a662aac/transformed/jetified-tuyasmart-timer-api-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/b7e407d69384f9307554c2668a662aac/transformed/jetified-tuyasmart-timer-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/05fcefa9f58e7dbc046a27c6164ba2b6/transformed/jetified-tuyasmart-timer-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6f1c99a564a1f824d5a6e203475b7d6e/transformed/jetified-tuyasmart-timer-api-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6f1c99a564a1f824d5a6e203475b7d6e/transformed/jetified-tuyasmart-timer-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/6f1c99a564a1f824d5a6e203475b7d6e/transformed/jetified-tuyasmart-timer-api-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

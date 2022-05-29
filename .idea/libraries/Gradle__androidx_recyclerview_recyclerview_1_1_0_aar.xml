@@ -2,15 +2,15 @@
   <library name="Gradle: androidx.recyclerview:recyclerview:1.1.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d76428a5ff2dc2e1f9b7d9f62c9abf49/transformed/recyclerview-1.1.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cbbe49e441368fb91d3c401e2a55d35f/transformed/recyclerview-1.1.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/49b5b5dd3bb22e2c9bfae08019d32e8f/transformed/recyclerview-1.1.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d76428a5ff2dc2e1f9b7d9f62c9abf49/transformed/recyclerview-1.1.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d76428a5ff2dc2e1f9b7d9f62c9abf49/transformed/recyclerview-1.1.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d76428a5ff2dc2e1f9b7d9f62c9abf49/transformed/recyclerview-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cbbe49e441368fb91d3c401e2a55d35f/transformed/recyclerview-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cbbe49e441368fb91d3c401e2a55d35f/transformed/recyclerview-1.1.0/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cbbe49e441368fb91d3c401e2a55d35f/transformed/recyclerview-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/49b5b5dd3bb22e2c9bfae08019d32e8f/transformed/recyclerview-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/49b5b5dd3bb22e2c9bfae08019d32e8f/transformed/recyclerview-1.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/49b5b5dd3bb22e2c9bfae08019d32e8f/transformed/recyclerview-1.1.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

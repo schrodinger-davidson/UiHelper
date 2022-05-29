@@ -39,6 +39,7 @@
       <sourceFolder url="file://$MODULE_DIR$/../../../LightSdk/src/androidTest/java" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/../../../LightSdk/src/main/assets" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../LightSdk/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../LightSdk/src/main/res" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/../../../LightSdk/src/test/java" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/../../../LightSdk/.gradle" />
       <excludeFolder url="file://$MODULE_DIR$/../../../LightSdk/build" />

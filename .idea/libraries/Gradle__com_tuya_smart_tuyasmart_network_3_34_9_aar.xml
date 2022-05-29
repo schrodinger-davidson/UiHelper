@@ -7,9 +7,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/jars/libs/r-classes.jar!/" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/dd030e3bdb94bbb8eb292e4583e5b385/transformed/jetified-tuyasmart-network-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/33d183d057e1f3140396cb45ab0286f2/transformed/jetified-tuyasmart-network-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/33d183d057e1f3140396cb45ab0286f2/transformed/jetified-tuyasmart-network-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/33d183d057e1f3140396cb45ab0286f2/transformed/jetified-tuyasmart-network-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/33d183d057e1f3140396cb45ab0286f2/transformed/jetified-tuyasmart-network-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

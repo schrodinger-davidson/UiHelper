@@ -6,9 +6,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/cf3b7a37ac65acced29d46264db9cd05/transformed/core-runtime-2.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/66eedcc093277415969880dab9588c83/transformed/core-runtime-2.1.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/66eedcc093277415969880dab9588c83/transformed/core-runtime-2.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/66eedcc093277415969880dab9588c83/transformed/core-runtime-2.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

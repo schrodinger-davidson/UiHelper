@@ -2,15 +2,15 @@
   <library name="Gradle: androidx.transition:transition:1.2.0@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/08c2953ac957dbf476cf1e81e69964b9/transformed/transition-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/res" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/jars/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5f4cf888ec15c296fdf6d6fc3b87b0cc/transformed/transition-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/08c2953ac957dbf476cf1e81e69964b9/transformed/transition-1.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/08c2953ac957dbf476cf1e81e69964b9/transformed/transition-1.2.0/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/08c2953ac957dbf476cf1e81e69964b9/transformed/transition-1.2.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

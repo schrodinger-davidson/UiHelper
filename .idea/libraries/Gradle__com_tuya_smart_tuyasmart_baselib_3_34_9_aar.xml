@@ -5,10 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/jars/libs/r-classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/AndroidManifest.xml" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/jars/classes.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/573497dcfea5388bdfd2b11a07af9ea9/transformed/jetified-tuyasmart-baselib-3.34.9/jars/libs/r-classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/eb8f6e9eb1c296e323d5dd13a27fc9f5/transformed/jetified-tuyasmart-baselib-3.34.9/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/eb8f6e9eb1c296e323d5dd13a27fc9f5/transformed/jetified-tuyasmart-baselib-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/eb8f6e9eb1c296e323d5dd13a27fc9f5/transformed/jetified-tuyasmart-baselib-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/eb8f6e9eb1c296e323d5dd13a27fc9f5/transformed/jetified-tuyasmart-baselib-3.34.9/jars/libs/r-classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

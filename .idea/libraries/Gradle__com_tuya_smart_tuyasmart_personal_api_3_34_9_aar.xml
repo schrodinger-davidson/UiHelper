@@ -5,9 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/AndroidManifest.xml" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/57bb5286f2d0c34b40709659eaefa0ec/transformed/jetified-tuyasmart-personal-api-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5df69afef51bae188f9f1509330c2072/transformed/jetified-tuyasmart-personal-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5df69afef51bae188f9f1509330c2072/transformed/jetified-tuyasmart-personal-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5df69afef51bae188f9f1509330c2072/transformed/jetified-tuyasmart-personal-api-3.34.9/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

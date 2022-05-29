@@ -6,8 +6,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d8b9a59563de9b48f0b3f1a9a1bdf90c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d8b9a59563de9b48f0b3f1a9a1bdf90c/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d8b9a59563de9b48f0b3f1a9a1bdf90c/transformed/versionedparcelable-1.1.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d8b9a59563de9b48f0b3f1a9a1bdf90c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/d8b9a59563de9b48f0b3f1a9a1bdf90c/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/aff868b1a347ae4ef969611d9c770d26/transformed/versionedparcelable-1.1.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/aff868b1a347ae4ef969611d9c770d26/transformed/versionedparcelable-1.1.1/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/aff868b1a347ae4ef969611d9c770d26/transformed/versionedparcelable-1.1.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

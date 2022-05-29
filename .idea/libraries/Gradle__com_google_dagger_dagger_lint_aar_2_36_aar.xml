@@ -5,9 +5,10 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/AndroidManifest.xml" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/1ea2baec3480302bcb781d953c9b8ca6/transformed/jetified-dagger-lint-aar-2.36/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/513466eafda2fab6acefcd005269fedc/transformed/jetified-dagger-lint-aar-2.36/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/513466eafda2fab6acefcd005269fedc/transformed/jetified-dagger-lint-aar-2.36/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/513466eafda2fab6acefcd005269fedc/transformed/jetified-dagger-lint-aar-2.36/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

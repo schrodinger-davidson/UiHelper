@@ -6,8 +6,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/901a706793e0f7421244d8ccf76bc2af/transformed/jetified-tuyasmart-otalib-api-3.34.9/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/901a706793e0f7421244d8ccf76bc2af/transformed/jetified-tuyasmart-otalib-api-3.34.9/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/901a706793e0f7421244d8ccf76bc2af/transformed/jetified-tuyasmart-otalib-api-3.34.9/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/901a706793e0f7421244d8ccf76bc2af/transformed/jetified-tuyasmart-otalib-api-3.34.9/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/901a706793e0f7421244d8ccf76bc2af/transformed/jetified-tuyasmart-otalib-api-3.34.9/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/76d9508805a10a0f186edfec7397cb71/transformed/jetified-tuyasmart-otalib-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/76d9508805a10a0f186edfec7397cb71/transformed/jetified-tuyasmart-otalib-api-3.34.9/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/76d9508805a10a0f186edfec7397cb71/transformed/jetified-tuyasmart-otalib-api-3.34.9/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

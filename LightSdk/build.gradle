@@ -1,6 +1,5 @@
 plugins {
     id 'com.android.library'
-    id 'maven-publish'
 
 }
 //apply plugin: 'android-maven'
@@ -111,19 +110,19 @@ dependencies {
 
 }
 
-afterEvaluate {
-    publishing{
-        publications{
-            release(MavenPublication){
-                from components.release
-
-                groupId = 'com.at'
-                artifactId ='smartlite'
-                version='1.0.2'
-            }
-        }
-    }
-}
+//afterEvaluate {
+//    publishing{
+//        publications{
+//            release(MavenPublication){
+//                from components.release
+//
+//                groupId = 'com.at'
+//                artifactId ='smartlite'
+//                version='1.0.2'
+//            }
+//        }
+//    }
+//}
 
 //apply plugin: 'com.tuya.open.theme'
 //tuyaOpenTheme {

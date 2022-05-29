@@ -4,9 +4,9 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/c5dc66a9cd26648df8b8f66f0d6b21a6/transformed/lifecycle-runtime-2.3.1/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5dc66a9cd26648df8b8f66f0d6b21a6/transformed/lifecycle-runtime-2.3.1/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/c5dc66a9cd26648df8b8f66f0d6b21a6/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bd6d33655ef38c267cfb74dd1361d1c2/transformed/lifecycle-runtime-2.3.1/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bd6d33655ef38c267cfb74dd1361d1c2/transformed/lifecycle-runtime-2.3.1/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/bd6d33655ef38c267cfb74dd1361d1c2/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/29b4043c44af474d56de6df6427cf133/transformed/lifecycle-runtime-2.3.1/res" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/29b4043c44af474d56de6df6427cf133/transformed/lifecycle-runtime-2.3.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/29b4043c44af474d56de6df6427cf133/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

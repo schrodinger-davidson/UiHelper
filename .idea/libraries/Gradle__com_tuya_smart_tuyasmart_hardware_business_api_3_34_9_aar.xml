@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-hardware-business-api:3.34.9@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/85c4516e5f679a5c5b8dd98c3c05eb85/transformed/jetified-tuyasmart-hardware-business-api-3.34.9/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/85c4516e5f679a5c5b8dd98c3c05eb85/transformed/jetified-tuyasmart-hardware-business-api-3.34.9/res" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/85c4516e5f679a5c5b8dd98c3c05eb85/transformed/jetified-tuyasmart-hardware-business-api-3.34.9/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

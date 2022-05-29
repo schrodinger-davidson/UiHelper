@@ -2,7 +2,7 @@
   <library name="Gradle: androidx.activity:activity:1.2.2@aar">
     <ANNOTATIONS>
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/dc124bf0b43ecb35074897847ea95fbd/transformed/jetified-activity-1.2.2/annotations.zip!/" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/180978580ccea00ecdbc2b4a2418d445/transformed/jetified-activity-1.2.2/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5ac0cd44346038b356e9ebc5d66bf13d/transformed/jetified-activity-1.2.2/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/afdad1cf838e552131258d73e60da7a9/transformed/jetified-activity-1.2.2/res" />
@@ -13,9 +13,9 @@
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/a568e480363a4de2e88397a7bb1d6858/transformed/jetified-activity-1.2.2/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5ac0cd44346038b356e9ebc5d66bf13d/transformed/jetified-activity-1.2.2/res" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/c861e85b1c7813cf4fa1617a11c37703/transformed/jetified-activity-1.2.2/res" />
-      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/180978580ccea00ecdbc2b4a2418d445/transformed/jetified-activity-1.2.2/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/180978580ccea00ecdbc2b4a2418d445/transformed/jetified-activity-1.2.2/res" />
-      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/180978580ccea00ecdbc2b4a2418d445/transformed/jetified-activity-1.2.2/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5ac0cd44346038b356e9ebc5d66bf13d/transformed/jetified-activity-1.2.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../wb/wbo/chatapp/chat21-android-demo/gradle/caches/transforms-3/5ac0cd44346038b356e9ebc5d66bf13d/transformed/jetified-activity-1.2.2/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

@@ -67,7 +67,11 @@
     <orderEntry type="library" name="Gradle: com.google.dagger:dagger:2.36" level="project" />
     <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.1" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:nativeloader:0.8.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:optimus-annotation:1.0.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.android.material:material:1.6.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-baselib:3.34.9@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.4.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.dagger:hilt-android:2.36@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.viewpager2:viewpager2:1.0.0@aar" level="project" />
@@ -94,15 +98,63 @@
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.3.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:optimus:1.0.4@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.1@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-mqtt:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
-    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.annotation:annotation-experimental:1.1.0@aar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.constraintlayout:constraintlayout:2.1.3@aar" level="project" />
     <orderEntry type="library" name="Gradle: com.google.dagger:dagger-lint-aar:2.36@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-base-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-bluetooth:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-bluetooth-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-bluetooth-business-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-cache:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-cache-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-cache-business:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-cache-business-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-camera-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-cameralib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-device:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-device-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-device-core:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-device-share-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-device-sharelib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-geofence:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-geofence-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-hardware:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-hardware-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-hardware-business-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-homelib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-homelib-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-log:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-mqtt-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-network:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-otalib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-otalib-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-personal-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-personallib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-region-url-full:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-compat:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-compat-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-execute:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-lib:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-lib-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-scene-model:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-sdk-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-sweeper:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-sweeper-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-timer:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-timer-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-user:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-user-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.tuya.smart:tuyasmart-user-base-api:3.34.9@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:soloader:0.8.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:annotation:0.8.0@aar" level="project" />
     <orderEntry type="module" module-name="Smartlite.LightSdk" />
   </component>
 </module>
